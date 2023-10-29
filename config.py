@@ -41,7 +41,6 @@ DB_URI = os.environ.get("DATABASE_URL", "postgres://xugsrguz:Yt6Y825q0e9j0veGmyh
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001898669613")) 
 FORCE_SUB_GROUP = int(os.environ.get("FORCE_SUB_GROUP", "-1001453851724")) 
 FORCE_SUB_GROUP3 = int(os.environ.get("FORCE_SUB_GROUP", "-1001962364863) 
-FORCE_SUB_GROUP4 = int(os.environ.get("FORCE_SUB_GROUP", "-1001624080290)) 
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
